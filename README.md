@@ -51,15 +51,10 @@
 
 ### Estatísticas
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Impedrohenriq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impedrohenriq&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=impedrohenriq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impedrohenriq&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Impedrohenriq&bg_color=020617&color=94f7f2&line=00e5ff&point=f8fafc&area=true&hide_border=true" />
-</div>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:001219,50:005f73,100:0a9396" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=impedrohenriq&bg_color=020617&color=94f7f2&line=00e5ff&point=f8fafc&area=true&hide_border=true" />
 </div>
