@@ -25,9 +25,11 @@
 ### Stack principal
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0b132b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0b132b?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Node.js-0b132b?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/React-0b132b?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue-0b132b?style=for-the-badge&logo=vuedotjs&logoColor=42b883" />
+  <img src="https://img.shields.io/badge/Vite-0b132b?style=for-the-badge&logo=vite&logoColor=646CFF" />
   <img src="https://img.shields.io/badge/C%23-0b132b?style=for-the-badge&logo=dotnet&logoColor=8A2BE2" />
   <img src="https://img.shields.io/badge/Python-0b132b?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/HTML5-0b132b?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -39,7 +41,12 @@
   <img src="https://img.shields.io/badge/Git-0b132b?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-0b132b?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0b132b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b132b?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-0b132b?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Firebase-0b132b?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/n8n-0b132b?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/ChatGPT-0b132b?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0b132b?style=for-the-badge&logo=anthropic&logoColor=D97757" />
 </p>
 
 ### Projetos em destaque
